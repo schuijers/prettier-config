@@ -38,6 +38,6 @@ Or, you can use it in other ways as described in the
 [me]: https://github.com/schuijers
 [npm]: https://npmjs.org/package/@schuijers/prettier-config
 [shield-github-build-status]:
-  https://github.com/schuijers/prettier-config/workflows/release/badge.svg
+  https://github.com/schuijers/prettier-config/workflows/Release/badge.svg
 [shield-license]: https://img.shields.io/badge/License-MIT-lavender.svg
 [shield-npm]: https://img.shields.io/npm/v/@schuijers/prettier-config.svg
