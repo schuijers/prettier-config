@@ -1,6 +1,6 @@
 {
   "name": "@schuijers/prettier-config",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Prettier config according to schuijers' personal preference.",
   "license": "MIT",
   "author": "Martijn Schuijers",
