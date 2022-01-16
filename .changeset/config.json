@@ -1,6 +1,6 @@
 {
   "$schema": "https://unpkg.com/@changesets/config@1.6.3/schema.json",
-  "access": "restricted",
+  "access": "public",
   "baseBranch": "main",
   "changelog": ["@changesets/changelog-github", { "repo": "schuijers/prettier-config" }],
   "commit": false,
