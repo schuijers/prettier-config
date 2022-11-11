@@ -1,5 +1,13 @@
 # @schuijers/prettier-config
 
+## 1.3.0
+
+### Minor Changes
+
+- [#12](https://github.com/schuijers/prettier-config/pull/12)
+  [`05eb5f5`](https://github.com/schuijers/prettier-config/commit/05eb5f5c36d16ff439771c0c956fafc848b365d7)
+  Thanks [@schuijers](https://github.com/schuijers)! - Updated dependencies
+
 ## 1.2.0
 
 ### Minor Changes
