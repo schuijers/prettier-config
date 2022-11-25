@@ -1,5 +1,13 @@
 # @schuijers/prettier-config
 
+## 1.4.0
+
+### Minor Changes
+
+- [#14](https://github.com/schuijers/prettier-config/pull/14)
+  [`ab4cf61`](https://github.com/schuijers/prettier-config/commit/ab4cf6152fe7c941da881c273fd2659cac836740)
+  Thanks [@schuijers](https://github.com/schuijers)! - Updated `prettier` to `2.8.0`
+
 ## 1.3.0
 
 ### Minor Changes
