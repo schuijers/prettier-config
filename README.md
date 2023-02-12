@@ -15,6 +15,8 @@ yarn add --dev @schuijers/prettier-config
 pnpm add --save-dev @schuijers/prettier-config
 ```
 
+This library has a required `peerDependencies` listing for [`prettier`](https://prettier.io/).
+
 ## Usage
 
 Reference `@schuijers/prettier-config` in your `package.json`.
