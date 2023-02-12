@@ -5,13 +5,14 @@ My shareable Prettier config.
 ## Installation
 
 ```shell script
+# npm
 npm install --save-dev @schuijers/prettier-config
-```
 
-or
-
-```shell script
+# yarn
 yarn add --dev @schuijers/prettier-config
+
+# pnpm
+pnpm add --save-dev @schuijers/prettier-config
 ```
 
 ## Usage
@@ -34,7 +35,7 @@ Or, you can use it in other ways as described in the
 
 [MIT][license] &copy; [Martijn Schuijers][me]
 
-[license]: ../../LICENSE
+[license]: ./LICENSE
 [me]: https://github.com/schuijers
 [npm]: https://npmjs.org/package/@schuijers/prettier-config
 [shield-github-build-status]:
