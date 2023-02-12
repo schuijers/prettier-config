@@ -1,5 +1,14 @@
 # @schuijers/prettier-config
 
+## 1.4.1
+
+### Patch Changes
+
+- [#18](https://github.com/schuijers/prettier-config/pull/18)
+  [`8ba6f53`](https://github.com/schuijers/prettier-config/commit/8ba6f536eeae33936a71d04f8ab731c084597eee)
+  Thanks [@schuijers](https://github.com/schuijers)! - Only include required `files` in
+  `package.json`
+
 ## 1.4.0
 
 ### Minor Changes
