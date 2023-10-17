@@ -1,5 +1,13 @@
 # @schuijers/prettier-config
 
+## 2.0.1
+
+### Patch Changes
+
+- [#24](https://github.com/schuijers/prettier-config/pull/24)
+  [`7b9e84f`](https://github.com/schuijers/prettier-config/commit/7b9e84f7ede98e5ebea202a449db9e3fcb678481)
+  Thanks [@schuijers](https://github.com/schuijers)! - Fixed export in `index.js`
+
 ## 2.0.0
 
 ### Major Changes
