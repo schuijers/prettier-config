@@ -1,5 +1,18 @@
 # @schuijers/prettier-config
 
+## 2.0.0
+
+### Major Changes
+
+- [#22](https://github.com/schuijers/prettier-config/pull/22)
+  [`0649d68`](https://github.com/schuijers/prettier-config/commit/0649d68f84ab8ff27cfa1c7e201df8d73dc99157)
+  Thanks [@schuijers](https://github.com/schuijers)! - Updated `prettier` peer dependency to
+  `^3.0.0`
+
+- [#22](https://github.com/schuijers/prettier-config/pull/22)
+  [`0649d68`](https://github.com/schuijers/prettier-config/commit/0649d68f84ab8ff27cfa1c7e201df8d73dc99157)
+  Thanks [@schuijers](https://github.com/schuijers)! - Move to ES modules
+
 ## 1.5.0
 
 ### Minor Changes
